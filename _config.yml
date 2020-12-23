@@ -93,16 +93,6 @@ roles:
    end: 2013
    employer: Psychiatry Dept Chairman
    description: lead 12 psychiatrists & $6M department in growth, quality improvement, outcomes, financial performance, reputation
- - title: URAC
-   start: 
-   end: 
-   employer: 
-   description: 
- - title: CCHIT
-   start: 
-   end: 
-   employer: 
-   description: 
    
 
 #Education is required
@@ -137,7 +127,7 @@ education:
 #      conference: API Conference, Berlin 2018
 
 #List of interesting Github repo/projects to include - optional
-github:
+# github:
 # - sdaviss/opioids
 
 #Stackoverflow flair is optional
@@ -145,13 +135,13 @@ github:
 #   profileurl: 
 #   flairimageurl: 
 
-intro: 
+intro: |
   Steve Daviss, MD, DFAPA, DABPM, is a Maryland-based physician triple-boarded in Psychiatry, Addiction Medicine, and Psychosomatic Medicine, with expertise in the intersection of psychiatry, primary care, health information technology, data science, and healthcare policy. Dr. Daviss is the incoming president of ASAM's Maryland-D.C. chapter, past president of the Maryland Psychiatric Society (MPS), and is medical director for Optum Maryland, which manages the Maryland Medicaid contract for specialty behavioral health services.
   He recently served in other leadership positions, including founding president and CEO of Fuse Health Strategies and lead psychiatrist for Mindoula Health’s Collaborative Care Program. He formerly served as HHS Senior Medical Advisor to the Office of the Chief Medical Officer and Medical Director of the Center for Substance Abuse Treatment at SAMHSA, where he focused on addiction and mental health policy matters. He served on a number of related task forces and councils, including the HHS Pain Management Task Force, CDC/HRSA Advisory Committee on HIV and Hepatitis, and the Federal Health IT Coordinating Council. Prior to beginning his service to HHS, he served in numerous leadership positions in clinical, medical informatics, and healthcare policy areas, including clinical assistant professor of Psychiatry at University of Maryland, chair of the Department of Psychiatry at University of Maryland Baltimore Washington Medical Center, Chief Medical Informatics Officer at M3 Information, chair of the Parity Accreditation Committee of ClearHealth Quality Institute, and election to Recorder of the Assembly at the American Psychiatric Association in 2017. 
   Other past advocacy and leadership roles include chair of the APA Committee on Mental Health Information Technology, chair of the Public Policy Committee and Board of Directors member for the Maryland-DC Society of Addiction Medicine, and APA Assembly Representative for MPS for eight years. In Maryland, he has served on the Health Care Commission’s Health Information Exchange Policy Board, Health Services and Cost Review Commission’s Performance Measurement committee, and Medicaid Pharmacy & Therapeutics Committee. Work on national standards organizations include URAC’s Health Standards Committee for ten years (currently on URAC's Accreditation Committee) and co-chair of CCHIT’s Workgroup on Behavioral Health Electronic Health Records, where he co-led a multidisciplinary two-year effort to produce nationally-accepted standards for behavioral health EHRs. 
   Dr. Daviss is co-author of the 2011 book from Johns Hopkins University Press, “Shrink Rap: Three Psychiatrists Explain Their Work,” and produced the successful podcast, "My Three Shrinks." He is @HITshrink on Twitter.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: 
+additionalinfo: |
    <strong>Stuff</strong>: stuff here, links, etc
    <strong>More stuff</strong>: other stuff too
