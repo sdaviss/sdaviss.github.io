@@ -60,90 +60,100 @@ skills:
 
 #Work experience is required
 roles:
- - title: Medical Director
+ - title: Optum - UnitedHealth Group
    start: 2019
    end: Ongoing
-   employer: Optum/UnitedHealth Group
+   employer: Medical Director
    description: Maryland Medicaid ASO for behavioral health (half-time now)
- - title: Lead Psychiatrist
+ - title: Mindoula Health
    start: 2018
    end: 2019
-   employer: Mindoula Health
+   employer: Lead Psychiatrist
    description: Collaborative care psychiatrist, worked on CoCM care teams, product dev, BD support, data analysis, clinical algorithms, clinical SME
- - title: Senior Medical Advisor - Medical Director
+ - title: SAMHSA/DHHS
    start: 2017
    end: 2018
-   employer: SAMHSA/DHHS
+   employer: Senior Medical Advisor - Medical Director
    description: Office of the Chief Medical Officer (OCMO) & Center for Substance Abuse Treatment (CSAT)
- - title: CMIO
+ - title: M3 Information
    start: 2013
    end: 2017
-   employer: M3 Information
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   employer: CMIO
+   description: chief medical informatics officer; platform design; workflow devpt; product devpt; business devpt; strategy; quality mgmt
+ - title: AbsoluteCare
+   start: 2014
+   end: 2015
+   employer: Collaborative Care Psychiatrist
+   description: unique integrated care setting collaborating with primary care teams
+- title: Founding President/CEO
+   start: 2013
+   end: 2019
+   employer: Fuse Health Strategies
+   description: consultant with expertise at the intersection of psychiatry, primary care, technology, informatics, health policy, standards
+ - title: Univ of Maryland Baltimore Washington Medical Center 
+   start: 2004
+   end: 2013
+   employer: Psychiatry Dept Chairman
+   description: lead 12 psychiatrists & $6M department in growth, quality improvement, outcomes, financial performance, reputation
+ - title: URAC
+   start: 
+   end: 
+   employer: 
+   description: 
+ - title: CCHIT
+   start: 
+   end: 
+   employer: 
+   description: 
+   
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Doctor of Medicine
+   date: 1989
+#  subject: Artificial Intelligence and Computer Science
+   school: University of Maryland School of Medicine
+ - level: Residency in Psychiatry
+   date: 1993
+   school: University of Pittsburgh Medical Center
+ - level: Fellowship in Clinical Research
+   date: 1995
+   school: Maryland Psychiatric Research Center
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+#coursera:
+#   profileurl: 
+#   courses:
+#    - title: Functional Programming Principles in Scala
+#      link: https://www.coursera.org/course/progfun
+#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+#      date: September 16, 2013
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
+#speakerdeck:
+#   profileurl: https://speakerdeck.com/robhinds
+#   talks:
+#    - title: Product Management for Engineers
+#      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+#      conference: API Conference, Berlin 2018
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
+# - sdaviss/opioids
 
 #Stackoverflow flair is optional
-stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
+#stackoverflow:
+#   profileurl: 
+#   flairimageurl: 
 
 intro: |
-  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
-  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
-  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
+  Steve Daviss, MD, DFAPA, DABPM, is a Maryland-based physician triple-boarded in Psychiatry, Addiction Medicine, and Psychosomatic Medicine, with expertise in the intersection of psychiatry, primary care, health information technology, data science, and healthcare policy. Dr. Daviss is the incoming president of ASAM's Maryland-D.C. chapter, past president of the Maryland Psychiatric Society (MPS), and is medical director for Optum Maryland, which manages the Maryland Medicaid contract for specialty behavioral health services.
+  He recently served in other leadership positions, including founding president and CEO of Fuse Health Strategies and lead psychiatrist for Mindoula Health’s Collaborative Care Program. He formerly served as HHS Senior Medical Advisor to the Office of the Chief Medical Officer and Medical Director of the Center for Substance Abuse Treatment at SAMHSA, where he focused on addiction and mental health policy matters. He served on a number of related task forces and councils, including the HHS Pain Management Task Force, CDC/HRSA Advisory Committee on HIV and Hepatitis, and the Federal Health IT Coordinating Council. Prior to beginning his service to HHS, he served in numerous leadership positions in clinical, medical informatics, and healthcare policy areas, including clinical assistant professor of Psychiatry at University of Maryland, chair of the Department of Psychiatry at University of Maryland Baltimore Washington Medical Center, Chief Medical Informatics Officer at M3 Information, chair of the Parity Accreditation Committee of ClearHealth Quality Institute, and election to Recorder of the Assembly at the American Psychiatric Association in 2017. 
+  Other past advocacy and leadership roles include chair of the APA Committee on Mental Health Information Technology, chair of the Public Policy Committee and Board of Directors member for the Maryland-DC Society of Addiction Medicine, and APA Assembly Representative for MPS for eight years. In Maryland, he has served on the Health Care Commission’s Health Information Exchange Policy Board, Health Services and Cost Review Commission’s Performance Measurement committee, and Medicaid Pharmacy & Therapeutics Committee. Work on national standards organizations include URAC’s Health Standards Committee for ten years (currently on URAC's Accreditation Committee) and co-chair of CCHIT’s Workgroup on Behavioral Health Electronic Health Records, where he co-led a multidisciplinary two-year effort to produce nationally-accepted standards for behavioral health EHRs. 
+  Dr. Daviss is co-author of the 2011 book from Johns Hopkins University Press, “Shrink Rap: Three Psychiatrists Explain Their Work,” and produced the successful podcast, "My Three Shrinks." He is @HITshrink on Twitter.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="https://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
-   <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
-   <strong>Groovy</strong> I have used Groovy as a language in production for ~4 years and I am familiar with many of the languages features (such as writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>) and quirks (such as <a target="_blank" href="https://dzone.com/articles/groovy-retrospective-an-addendum-memory-usage-perm">memory leak issues</a>). <br/><br/>
-   <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="https://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
-   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/AWS. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="https://projects.spring.io/spring-social/">https://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="https://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+   <strong>Stuff</strong>: stuff here, links, etc
+   <strong>More stuff</strong>: other stuff too
